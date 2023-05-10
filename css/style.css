@@ -1,0 +1,19 @@
+* {
+  background-color: #245953;
+  color: #D8D8D8;
+  font-family: "Pacifico", cursive;
+}
+
+h1 {
+  color: #FFBF9B;      
+  font-family: "Delicious Handrawn", cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #002B5B;
+  height: 8px;
+  width: 15%;
+}
